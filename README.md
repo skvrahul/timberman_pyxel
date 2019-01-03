@@ -1,5 +1,5 @@
 # TimberMan #
-## A rudimentary clone of the popular Android game TimberMan([iOS](https://itunes.apple.com/us/app/timberman/id871809581) [Android](https://play.google.com/store/apps/details?id=com.dm.timber) built using [Pyxel](https://github.com/kitao/pyxel)! ## 
+## A rudimentary clone of the popular Mobile Game TimberMan( [iOS](https://itunes.apple.com/us/app/timberman/id871809581)  / [Android](https://play.google.com/store/apps/details?id=com.dm.timber) ) built using [Pyxel](https://github.com/kitao/pyxel)! ## 
 
 Controls are the arrow keys **←** **→**
 
